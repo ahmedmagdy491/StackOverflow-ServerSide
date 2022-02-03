@@ -7,7 +7,7 @@
     "start": "nodemon server",
     "server": "node server"
   },
-  "author": "Mayank Aggarwal",
+  "author": "Ahmed Magdy",
   "license": "MIT",
   "dependencies": {
     "axios": "^0.21.1",
